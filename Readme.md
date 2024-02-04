@@ -13,4 +13,4 @@
   />
 </picture>
 <br>
-[![Technologies](https://skillicons.dev/icons?i=react,redux,nodejs,sass,next,tailwind,bootstrap,express,firebase,mongodb,vercel,webpack)](https://skillicons.dev)
+[![Technologies](https://skillicons.dev/icons?i=react,redux,nodejs,sass,next,tailwind,bootstrap,express,firebase,mongodb,vite,vercel,netlify,jest,rollupjs,webpack,blender)](https://skillicons.dev)
