@@ -13,7 +13,7 @@
   />
 </picture>
 <br>
-# Привет, я Дастан <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" style="width: 35px;">...
+#Привет, я Дастан ..............
 
 
 Я Frontend-разработчик . В основном я работаю над  React JS, Node JS, Typescript и Firebase. 
