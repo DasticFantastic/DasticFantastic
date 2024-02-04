@@ -15,7 +15,6 @@
 <br>
 # Привет, я Дастан <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" style="width: 35px;">...
 
-![Me](https://github.com/SoorajSNBlaze333/SoorajSNBlaze333/blob/master/Github_Readme.png)
 
 Я Frontend-разработчик . В основном я работаю над  React JS, Node JS, Typescript и Firebase. 
 
