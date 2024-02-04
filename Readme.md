@@ -13,19 +13,19 @@
   />
 </picture>
 <br>
-# Hi there, I'm Sooraj <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" style="width: 35px;">...
+# Привет, я Дастан <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" style="width: 35px;">...
 
 ![Me](https://github.com/SoorajSNBlaze333/SoorajSNBlaze333/blob/master/Github_Readme.png)
 
 Я Frontend-разработчик . В основном я работаю над  React JS, Node JS, Typescript и Firebase. 
 
-### Languages I'm familiar with
+### Языки, с которыми я знаком
 [![Languages](https://skillicons.dev/icons?i=js,ts,html,css,python)](https://skillicons.dev)
 
-### My Tech stack
+### Мой технологический стек
 [![Technologies](https://skillicons.dev/icons?i=react,redux,nodejs,sass,next,tailwind,bootstrap,express,firebase,mongodb)](https://skillicons.dev)
 
-### Tools I use
+### Инструменты, которые я использую
 [![Tools](https://skillicons.dev/icons?i=vscode,github,figma)](https://skillicons.dev)
 
 
