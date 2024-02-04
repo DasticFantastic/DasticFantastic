@@ -20,7 +20,6 @@
         src="https://user-images.githubusercontent.com/49222186/110210369-58458c80-7eb7-11eb-9d6e-2129358b3098.png" width="350"/>
     
    
-    <div>
 
 
 Я Frontend-разработчик . В основном я работаю над  React JS, Node JS, Typescript и Firebase. 
